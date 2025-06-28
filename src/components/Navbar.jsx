@@ -38,9 +38,11 @@ const Navbar = () => {
           }}
         >
           <Link style={{ color: "black", textDecoration: "none" }} to="/">
+            <p>Home</p>
+          </Link>
+          <Link style={{ color: "black", textDecoration: "none" }} to="/">
             <p>Shop</p>
           </Link>
-          <p></p>
         </div>
 
         <div
